@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy Javier 👋
 
 ### 🎓 Académico & Desarrollador de Software
 Me especializo en la intersección de la **optimización matemática** y el **desarrollo de sistemas complejos**. Actualmente, compagino mi labor docente e investigadora con el desarrollo de soluciones de software escalables y entornos virtuales.
